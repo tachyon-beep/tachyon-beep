@@ -25,8 +25,6 @@ I’m a Senior Technical Advisor (AI) for the Australian Public Service, with a 
 - **Keisei**: A DRL tech demonstrator teaching an AI to play Shogi, also serving as a proof of concept for a modular DRL training harness.
 - **Kasima**: An implementation of "Morphogenetic Architectures"—a novel framework for adaptive neural networks, enabling localized, seed-driven evolution within otherwise static models. This approach supports the emergence of new capabilities in resource-constrained or safety-critical scenarios, without the need for retraining entire systems.
 
-_Note: Most of my projects and major systems are named after characters from Magic the Gathering (MTG) lore._
-
 ## 🎲 Interests
 
 - Deep Reinforcement Learning
