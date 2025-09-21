@@ -6,12 +6,12 @@ I’m a Senior Technical Advisor (AI) for the Australian Public Service, with a 
 
 - **AI & Deep Reinforcement Learning (DRL)**
 - **Systems Engineering**
-- **Cyber Security**
-- **Python Development**
 - **Simulation & Modelling**
 - **C4ISR Systems**
 - **Project Management**
-- **Root Cause Analysis & Critical Situation Management**
+- **Cyber Security**
+- **Root Cause Analysis**
+- **Situation Management**
 
 ## 🧠 Domain Specialisations
 
