@@ -23,7 +23,8 @@ I’m a Senior Technical Advisor (AI) for the Australian Public Service, with a 
 ## 💡 Key Projects
 
 - **Keisei**: A DRL tech demonstrator teaching an AI to play Shogi, also serving as a proof of concept for a modular DRL training harness.
-- **Kasima**: An implementation of "Morphogenetic Architectures"—a novel framework for adaptive neural networks, enabling localized, seed-driven evolution within otherwise static models.
+- **Esper**: An implementation of "Morphogenetic Architectures"—a novel framework for adaptive neural networks, enabling localized, seed-driven evolution within otherwise static models.
+- **The Great Work**: An asynchronous, fully public research drama played entirely through Discord. Experimental Game Design.
 
 ## 🎲 Interests
 
