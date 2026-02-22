@@ -22,9 +22,11 @@ I’m a Senior Technical Advisor (AI) for the Australian Public Service, with a 
 
 ## 💡 Key Projects
 
-- **Keisei**: A DRL tech demonstrator teaching an AI to play Shogi, also serving as a proof of concept for a modular DRL training harness.
+- **Elspeth**: An auditable Sense/Decide/Act pipelines for high-stakes data processing. 
 - **Esper**: An implementation of "Morphogenetic Architectures"—a novel framework for adaptive neural networks, enabling localized, seed-driven evolution within otherwise static models.
-- **The Great Work**: An asynchronous, fully public research drama played entirely through Discord. Experimental Game Design.
+- **Filigree**: An agent-native issue tracker with convention-based project discovery.
+- **Keisei**: A DRL tech demonstrator teaching an AI to play Shogi, also serving as a proof of concept for a modular DRL training harness.
+- **Murk**: A Rust-based simulation framework for RL environments.
 
 ## 🎲 Interests
 
