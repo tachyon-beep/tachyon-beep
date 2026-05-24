@@ -33,6 +33,7 @@ I’m a Senior Technical Advisor (AI) for the Australian Public Service, with a 
 - Deep Reinforcement Learning
 - Simulation & Modelling
 - Game Design
+- Systems Thinking
 - Magic the Gathering (MTG)
 
 ## 🗨️ Availability
